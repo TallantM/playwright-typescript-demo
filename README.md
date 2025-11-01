@@ -1,4 +1,4 @@
-![CI](https://github.com/TallantM/playwright-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/TallantM/playwright-demo/actions/workflows/playwright.yml/badge.svg)
 
 # Playwright Demo
 

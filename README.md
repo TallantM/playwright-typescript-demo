@@ -1,4 +1,4 @@
-# Playwright TypeScript Demo[![Playwright Tests](https://github.com/TallantM/playwright-typescript-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/TallantM/playwright-typescript-demo/actions/workflows/playwright.yml)
+# Playwright TypeScript Demo [![Run Tests](https://github.com/TallantM/playwright-typescript-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/TallantM/playwright-typescript-demo/actions/workflows/playwright.yml)
 
 A client project demonstration of automated testing using Playwright with TypeScript, including reusable utilities and a GitHub Actions CI workflow.
 

@@ -43,7 +43,7 @@ typescript-framework-demo/
 ├── Dockerfile              # Containerized build for testing
 ├── package.json            # Dependencies and scripts
 ├── playwright.config.ts    # Playwright configuration
-├── README.md               # This documentation              # This documentation
+├── README.md               # This documentation              
 ```
 
 ## Testing Overview

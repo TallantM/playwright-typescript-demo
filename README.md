@@ -1,6 +1,6 @@
 # Playwright TypeScript Demo [![Run Tests](https://github.com/TallantM/typescript-framework-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/TallantM/typescript-framework-demo/actions/workflows/ci.yml)
 
-A client project demonstration of automated testing using Playwright with TypeScript, featuring reusable utilities, layered test suites (unit, integration, and end-to-end), and a GitHub Actions CI workflow for scalable quality assurance. This repository showcases TypeScript proficiency through structured testing practices, suitable for job applications or client deliverables.
+A client project demonstration of automated testing using Playwright with TypeScript, featuring reusable utilities, layered test suites (unit, integration, and end-to-end), and a GitHub Actions CI workflow for scalable quality assurance. 
 
 ## Prerequisites
 - Node.js 18.0+
